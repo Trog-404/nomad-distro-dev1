@@ -4,3 +4,6 @@
 [submodule "packages/fabrication_facilities"]
 	path = packages/fabrication_facilities
 	url = https://github.com/Trog-404/Fabrication-utilities.git
+[submodule "packages/nomad-docs"]
+	path = packages/nomad-docs
+	url = https://github.com/FAIRmat-NFDI/nomad-docs.git
