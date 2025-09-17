@@ -1,9 +1,12 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
-[submodule "packages/fabrication_facilities"]
-	path = packages/fabrication_facilities
-	url = https://github.com/Trog-404/Fabrication-utilities.git
 [submodule "packages/nomad-docs"]
 	path = packages/nomad-docs
 	url = https://github.com/FAIRmat-NFDI/nomad-docs.git
+[submodule "packages/fabrication_utilities"]
+	path = packages/fabrication_utilities
+	url = https://github.com/Trog-404/Fabrication-utilities.git
+[submodule "packages/characterization_utilities"]
+	path = packages/characterization_utilities
+	url = https://github.com/Trog-404/Characterization-utilities.git
